@@ -1,4 +1,4 @@
-# Front-end Developer
+# Front-end Developer | Por Ana Maria Silva
 
 ## Repositório de tutoriais e referências para desenvolvedores front-end
 
