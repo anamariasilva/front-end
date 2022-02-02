@@ -6,9 +6,9 @@
 <br><br>
 
 ### Referências Front-end:
-💻 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) <br>
-💻 [W3C](https://www.w3c.br/) <br>
-💻 [Can I use](https://caniuse.com/) <br>
+🌐 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) <br>
+🌐 [W3C](https://www.w3c.br/) <br>
+🌐 [Can I use](https://caniuse.com/) <br>
 
 
 ### Repositórios recomendados:
@@ -19,5 +19,4 @@
 
 <br><br>
 
-Ana Maria Silva
-🌐 [www.anamaria.dev.br](https://www.anamaria.dev.br)
+Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br)
