@@ -23,9 +23,10 @@
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
 ### Sites de consulta:
-💻 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
-💻 [W3Schools](https://www.w3schools.com/) <br>
+🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
+🔗 [W3Schools](https://www.w3schools.com/) <br>
 
 <br><br>
 
 Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br)
+:octocat: github.com/anamariasilva
