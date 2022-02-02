@@ -9,6 +9,7 @@
 🌐 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) <br>
 🌐 [W3C](https://www.w3c.br/) <br>
 🌐 [Can I use](https://caniuse.com/) <br>
+🌐 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 
 
 ### Repositórios recomendados:
