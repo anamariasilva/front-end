@@ -28,5 +28,5 @@
 
 <br><br>
 
-Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br)
+Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br) <br>
 :octocat: github.com/anamariasilva
