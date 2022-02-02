@@ -19,8 +19,8 @@
 💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed)
 
 ### Livros:
-💻 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
-💻 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
+📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
+📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
 ### Sites de consulta:
 💻 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
