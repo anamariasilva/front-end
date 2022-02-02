@@ -6,6 +6,6 @@
 
 <strong>Repositórios recomendados:</strong>
 
-💻 WoMakersCode / Front-end Challenges: (https://github.com/WoMakersCode/challenges-front-end)[WoMakersCode / Front-end Challenges]<br>
-💻 Felipe Fialho / Frontend Challenges: https://github.com/felipefialho/frontend-challenges
-💻 Felipe Fialho / Fronend Feed: https://github.com/felipefialho/frontend-feed
+💻 [WoMakersCode / Front-end Challenges] (https://github.com/WoMakersCode/challenges-front-end)<br>
+💻 [Felipe Fialho / Frontend Challenges] (https://github.com/felipefialho/frontend-challenges)<br>
+💻 [Felipe Fialho / Frontend Feed] (https://github.com/felipefialho/frontend-feed)
