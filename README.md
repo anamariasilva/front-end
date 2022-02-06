@@ -9,9 +9,7 @@
 🌐 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) <br>
 🌐 [W3C](https://www.w3c.br/) <br>
 🌐 [Can I use](https://caniuse.com/) <br>
-🌐 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
-🌐 [Site do Maujor](https://www.maujor.com/) <br>
-
+🌐 [CSS-Tricks](css-tricks.com) <br>
 
 ### Repositórios recomendados:
 💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
@@ -23,6 +21,8 @@
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
 ### Sites de consulta:
+🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
+🔗 [Site do Maujor](https://www.maujor.com/) <br>
 🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
 🔗 [W3Schools](https://www.w3schools.com/) <br>
 
