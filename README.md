@@ -1,4 +1,4 @@
-# Front-end Developer | Por Ana Maria Silva
+# Front-end Developer | github.com/anamariasilva
 
 ## Repositório de tutoriais e referências para desenvolvedores front-end
 
