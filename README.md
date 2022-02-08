@@ -30,9 +30,11 @@
 
 ### Conteúdos gratuitos:
 💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/)
+💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/)
 
 ### Repositório Tutoriais do Github:
 💻 [github.com/anamariasilva/github](https://github.com/anamariasilva/github)
+
 
 <br>
 
