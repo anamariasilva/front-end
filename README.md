@@ -2,8 +2,10 @@
 
 ## Repositório de tutoriais e referências para desenvolvedores front-end
 
-<a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram @ana.tech.dev</a> com 15 publicações.
-<br><br>
+<br>
+
+<a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram</a> <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> com 15 publicações.
+<br>
 
 ### Referências Front-end:
 🌐 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) <br>
