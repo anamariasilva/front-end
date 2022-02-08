@@ -18,7 +18,8 @@
 ### Repositórios recomendados:
 💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
 💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
-💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed)
+💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
+💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/)
 
 ### Sites de consulta:
 🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
