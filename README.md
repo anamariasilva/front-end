@@ -28,7 +28,7 @@
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
-<br><br>
+<br>
 
 Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br) <br>
 :octocat: github.com/anamariasilva
