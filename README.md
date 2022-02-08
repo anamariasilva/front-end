@@ -7,6 +7,8 @@
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram</a> com 15 publicações.
 <br>
 
+💻 [Tutorial para devs](https://www.instagram.com/p/CUOdgw1gKrM/)
+
 ### Referências Front-end:
 🌐 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) <br>
 🌐 [W3C](https://www.w3c.br/) <br>
@@ -29,7 +31,7 @@
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
 ### Conteúdos gratuitos:
-💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/)
+💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/) <br>
 💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/)
 
 ### Repositório Tutoriais do Github:
