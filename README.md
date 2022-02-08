@@ -30,7 +30,8 @@
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
-### Conteúdos gratuitos:
+### Tutoriais em posts:
+💻 [Tutorial Front-end com Front in Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/) <br>
 💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/)
 
