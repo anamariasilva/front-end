@@ -28,11 +28,11 @@
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
-### Conteúdos gratuitos
-[Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/)
+### Conteúdos gratuitos:
+💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/)
 
-### Repositório Tutoriais do Github
-[github.com/anamariasilva/github](https://github.com/anamariasilva/github)
+### Repositório Tutoriais do Github:
+💻 [github.com/anamariasilva/github](https://github.com/anamariasilva/github)
 
 <br>
 
