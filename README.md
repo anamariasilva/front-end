@@ -18,15 +18,15 @@
 💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
 💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed)
 
-### Livros:
-📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
-📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
-
 ### Sites de consulta:
 🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 🔗 [Site do Maujor](https://www.maujor.com/) <br>
 🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
 🔗 [W3Schools](https://www.w3schools.com/) <br>
+
+### Livros:
+📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
+📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 
 <br><br>
 
