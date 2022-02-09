@@ -20,6 +20,7 @@
 💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
 💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
 💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/)
+💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr)
 
 ### Sites de consulta:
 🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
