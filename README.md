@@ -29,17 +29,17 @@
 🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
 🔗 [W3Schools](https://www.w3schools.com/) <br>
 <br>
-### Livros:
-📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
-📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
-<br>
 ### Tutoriais em posts:
-💻 [Tutorial Front-end com Front in Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
+💻 [Tutorial Front-end com Front in Sampa @frontinsampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/) <br>
 💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/) <br>
 <br>
-### Repositório Tutoriais do Github:
+### Repositório de Tutoriais do Github:
 💻 [github.com/anamariasilva/github](https://github.com/anamariasilva/github) <br>
+<br>
+### Livros:
+📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
+📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 <br>
 ### Links complementares:
 🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
