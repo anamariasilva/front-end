@@ -23,12 +23,6 @@
 💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
 💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
 <br>
-### Sites de consulta:
-🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
-🔗 [Site do Maujor](https://www.maujor.com/) <br>
-🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
-🔗 [W3Schools](https://www.w3schools.com/) <br>
-<br>
 ### Tutoriais em posts:
 💻 [Tutorial Front-end com Front in Sampa @frontinsampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/) <br>
@@ -37,7 +31,16 @@
 ### Repositório de Tutoriais do Github:
 💻 [github.com/anamariasilva/github](https://github.com/anamariasilva/github) <br>
 <br>
-### Livros:
+### Artigos Front-end:
+🔗 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
+<br>
+### Sites de consulta:
+🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
+🔗 [Site do Maujor](https://www.maujor.com/) <br>
+🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
+🔗 [W3Schools](https://www.w3schools.com/) <br>
+<br>
+### Livros e e-books:
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 <br>
