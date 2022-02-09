@@ -44,7 +44,7 @@
 ### Links complementares:
 🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
 
-<br><br>
+<br>
 __<br>
 Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br) <br>
 :octocat: [github.com/anamariasilva](https://github.com/anamariasilva) <br>
