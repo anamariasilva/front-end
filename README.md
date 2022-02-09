@@ -42,7 +42,7 @@
 💻 [github.com/anamariasilva/github](https://github.com/anamariasilva/github)
 
 ### Links
-[Playlist Podcasts Tech para Devs no Spotify](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
+🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
 
 <br>
 
