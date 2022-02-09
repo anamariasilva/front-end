@@ -43,4 +43,5 @@
 <br>
 
 Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br) <br>
-:octocat: github.com/anamariasilva
+:octocat: github.com/anamariasilva <br>
+:octocat: [github.com/anatechdev](https://github.com/anatechdev)
