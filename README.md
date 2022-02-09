@@ -2,7 +2,7 @@
 
 ## Repositório de tutoriais e referências de desenvolvimento front-end
 
-Conteúdos sobre desenvolvimento front-end no Instagram: <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <br>
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Conteúdos sobre desenvolvimento front-end no Instagram: @ana.tech.dev <br>
 
 <a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram</a> com 15 publicações.
 <br>
