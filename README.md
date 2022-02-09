@@ -1,6 +1,6 @@
-# Front-end Developer | github.com/anamariasilva
+# Front-end Developer
 
-## Repositório de tutoriais e referências para desenvolvedores front-end
+## Repositório de tutoriais e referências de desenvolvimento front-end
 
 <br>
 
