@@ -14,6 +14,7 @@
 🌐 [W3C](https://www.w3c.br/) <br>
 🌐 [Can I use](https://caniuse.com/) <br>
 🌐 [CSS-Tricks](css-tricks.com) <br>
+🌐 [Referências para desenvolvedores front-end](https://www.instagram.com/p/CRY2ZUaD9kS/)
 
 ### Repositórios recomendados:
 💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
