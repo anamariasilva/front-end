@@ -46,6 +46,6 @@
 
 <br>
 __<br>
-Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br) <br>
-:octocat: [github.com/anamariasilva](https://github.com/anamariasilva) <br>
-:octocat: [github.com/anatechdev](https://github.com/anatechdev)
+Ana Maria Silva | <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a><br>
+:octocat: <a href="https://github.com/anamariasilva" target="_blank">github.com/anamariasilva</a><br>
+:octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a>
