@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Conteúdos sobre desenvolvimento front-end no Instagram: @ana.tech.dev <br>
 
 <a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram</a> com 15 publicações.
-<br>
+<br><br>
 
 💻 [Tutorial para devs](https://www.instagram.com/p/CUOdgw1gKrM/)
 <br>
@@ -45,7 +45,7 @@
 🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
 
 <br><br>
-__
+__<br>
 Ana Maria Silva | [www.anamaria.dev.br](https://www.anamaria.dev.br) <br>
 :octocat: [github.com/anamariasilva](https://github.com/anamariasilva) <br>
 :octocat: [github.com/anatechdev](https://github.com/anatechdev)
