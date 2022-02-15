@@ -15,6 +15,7 @@
 🌐 [Can I use](https://caniuse.com/) <br>
 🌐 [CSS-Tricks](css-tricks.com) <br>
 🌐 [Referências para desenvolvedores front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
+🌐 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
 <br>
 ### Repositórios recomendados:
 💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
@@ -38,7 +39,13 @@
 🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 🔗 [Site do Maujor](https://www.maujor.com/) <br>
 🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
+🔗 [Tableless](https://tableless.com.br/) <br>
 🔗 [W3Schools](https://www.w3schools.com/) <br>
+<br>
+### Repositórios de organizações front-end:
+💻 [Frontend Masters](https://github.com/FrontendMasters) <br>
+💻 [Front in Sampa](https://github.com/frontinsampa) <br>
+💻 [MDN Web Docs](https://github.com/mdn) <br>
 <br>
 ### Livros e e-books:
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
