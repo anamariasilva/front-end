@@ -19,10 +19,11 @@
 <br>
 ### Repositórios recomendados:
 💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
-💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
 💻 [MDN Web Docs](https://github.com/mdn) <br>
+💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
 💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
 💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
+💻 [The Frontend Learning Roadmap / Frontend Masters](https://github.com/FrontendMasters/learning-roadmap) <br>
 <br>
 ### Tutoriais em posts:
 💻 [Tutorial Front-end com Front in Sampa @frontinsampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
@@ -38,7 +39,6 @@
 ### Sites de consulta:
 🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 🔗 [Site do Maujor](https://www.maujor.com/) <br>
-🔗 [Stack Overflow em Português](https://pt.stackoverflow.com/) <br>
 🔗 [Tableless](https://tableless.com.br/) <br>
 🔗 [W3Schools](https://www.w3schools.com/) <br>
 <br>
