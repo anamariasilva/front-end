@@ -20,7 +20,7 @@
 ### Repositórios recomendados:
 💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
 💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
-💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
+💻 [MDN Web Docs](https://github.com/mdn) <br>
 💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
 💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
 <br>
@@ -43,9 +43,10 @@
 🔗 [W3Schools](https://www.w3schools.com/) <br>
 <br>
 ### Repositórios de organizações front-end:
-💻 [Frontend Masters](https://github.com/FrontendMasters) <br>
+💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
 💻 [Front in Sampa](https://github.com/frontinsampa) <br>
-💻 [MDN Web Docs](https://github.com/mdn) <br>
+💻 [Frontend Masters](https://github.com/FrontendMasters) <br>
+
 <br>
 ### Livros e e-books:
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
