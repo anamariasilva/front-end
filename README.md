@@ -46,7 +46,6 @@
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
 💻 [Front in Sampa](https://github.com/frontinsampa) <br>
 💻 [Frontend Masters](https://github.com/FrontendMasters) <br>
-
 <br>
 ### Livros e e-books:
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
