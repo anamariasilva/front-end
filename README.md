@@ -30,9 +30,6 @@
 💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/) <br>
 💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/) <br>
 <br>
-### Repositório de Tutoriais do Github:
-💻 [github.com/anamariasilva/github](https://github.com/anamariasilva/github) <br>
-<br>
 ### Artigos Front-end:
 🔗 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
 <br>
@@ -41,6 +38,7 @@
 🔗 [Site do Maujor](https://www.maujor.com/) <br>
 🔗 [Tableless](https://tableless.com.br/) <br>
 🔗 [W3Schools](https://www.w3schools.com/) <br>
+🔗 [JSchallenger](https://www.jschallenger.com/) <br>
 <br>
 ### Repositórios de organizações front-end:
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
