@@ -47,7 +47,7 @@
 <br>
 ### Livros e e-books:
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
-📘 [LJavaScript Eloquente - 2ª edição por BzasilJS](https://github.com/braziljs/eloquente-javascript) <br>
+📘 [JavaScript Eloquente - 2ª edição por BrazilJS](https://github.com/braziljs/eloquente-javascript) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 <br>
 ### Comunidades Front-end:
