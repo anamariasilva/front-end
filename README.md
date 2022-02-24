@@ -49,6 +49,9 @@
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 <br>
+### Comunidades Front-end:
+💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
+<br>
 ### Links complementares:
 🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
 
