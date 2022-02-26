@@ -13,7 +13,7 @@
 🌐 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) <br>
 🌐 [W3C](https://www.w3c.br/) <br>
 🌐 [Can I use](https://caniuse.com/) <br>
-🌐 [CSS-Tricks](css-tricks.com) <br>
+🌐 [CSS-Tricks](https://css-tricks.com/) <br>
 🌐 [Referências para desenvolvedores front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
 <br>
 ### Repositórios recomendados:
