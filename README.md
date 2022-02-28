@@ -1,6 +1,8 @@
-# Front-end Developer
+# Front-end Developers
 
 ## Repositório de tutoriais e referências de desenvolvimento front-end
+
+<code>Hello world, Frontenders!</code> <br>
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Conteúdos sobre desenvolvimento front-end no Instagram: @ana.tech.dev <br>
 
