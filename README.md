@@ -53,6 +53,7 @@
 <br>
 ### Conteúdos JavaScript:
 💻 [Tradução do livro Eloquent JavaScript - 2ª edição por BrazilJS](https://github.com/braziljs/eloquente-javascript) <br>
+💻 [Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) <br>
 💻 [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/) <br>
 💻 [The Modern JavaScript Tutorial](https://javascript.info/) <br>
 💻 [JavaScript.com](https://www.javascript.com/) <br>
