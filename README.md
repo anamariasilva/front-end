@@ -49,8 +49,13 @@
 <br>
 ### Livros e e-books:
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
-📘 [JavaScript Eloquente - 2ª edição por BrazilJS](https://github.com/braziljs/eloquente-javascript) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
+<br>
+### Conteúdos JavaScript:
+💻 [Tradução do livro Eloquent JavaScript - 2ª edição por BrazilJS](https://github.com/braziljs/eloquente-javascript) <br>
+💻 [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/) <br>
+💻 [The Modern JavaScript Tutorial](https://javascript.info/) <br>
+💻 [JavaScript.com](https://www.javascript.com/) <br>
 <br>
 ### Comunidades Front-end:
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
