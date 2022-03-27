@@ -34,6 +34,7 @@
 ### Artigos Front-end:
 🔗 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
 <br>
+
 ### Sites de consulta:
 🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 🔗 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
@@ -42,6 +43,7 @@
 🔗 [W3Schools](https://www.w3schools.com/) <br>
 🔗 [JSchallenger](https://www.jschallenger.com/) <br>
 <br>
+
 ### Repositórios de organizações front-end:
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
 💻 [Front in Sampa](https://github.com/frontinsampa) <br>
@@ -55,13 +57,13 @@
 💻 [JavaScript.com](https://www.javascript.com/) <br>
 <br>
 
-### Guias e Tutoriais FreeCodeCamp:
+### Tutoriais FreeCodeCamp sobre React:
 💻 [The React Beginner's Guide for 2022](www.freecodecamp.org/news/react-beginners-guide/) <br>
 💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
 💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
-
 <br>
-### Livros e e-books:
+
+### Livros e e-books: 
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
 <br>
@@ -69,6 +71,7 @@
 ### Comunidades Front-end:
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
 <br>
+
 ### Links complementares:
 🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
 
