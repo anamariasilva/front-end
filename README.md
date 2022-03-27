@@ -56,8 +56,9 @@
 <br>
 
 ### Guias e Tutoriais FreeCodeCamp:
-💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
 💻 [The React Beginner's Guide for 2022](www.freecodecamp.org/news/react-beginners-guide/) <br>
+💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
+💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
 
 <br>
 ### Livros e e-books:
