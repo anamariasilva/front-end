@@ -2,7 +2,8 @@
 
 ## Repositório de tutoriais e referências de desenvolvimento front-end
 
-<code>Hello world, Frontenders!</code> <br><br>
+<code>Hello world, Frontenders!</code> 
+<br><br>
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Conteúdos sobre desenvolvimento front-end no Instagram: @ana.tech.dev <br>
 
@@ -57,7 +58,7 @@
 💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
 💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
 
-### Comunidade Front-end:
+### Comunidades Front-end:
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
 
 ### Artigos Front-end:
