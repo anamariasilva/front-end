@@ -31,9 +31,6 @@
 💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/) <br>
 💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/) <br>
 <br>
-### Artigos Front-end:
-🔗 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
-<br>
 
 ### Sites de consulta:
 🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
@@ -63,13 +60,17 @@
 💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
 <br>
 
+### Comunidade Front-end:
+💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
+<br>
+
+### Artigos Front-end:
+🔗 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
+<br>
+
 ### Livros e e-books: 
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
-<br>
-
-### Comunidades Front-end:
-💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
 <br>
 
 ### Links complementares:
