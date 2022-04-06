@@ -53,7 +53,8 @@
 💻 [The Modern JavaScript Tutorial](https://javascript.info/) <br>
 💻 [JavaScript.com](https://www.javascript.com/) <br>
 
-### Tutoriais FreeCodeCamp sobre React:
+### Tutoriais sobre React:
+💻 [Create React App por Vercel](https://vercel.com/solutions/react) <br>
 💻 [The React Beginner's Guide for 2022](www.freecodecamp.org/news/react-beginners-guide/) <br>
 💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
 💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
