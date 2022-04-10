@@ -59,6 +59,11 @@
 💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
 💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
 
+### Trilhas e Cronogramas de estudo:
+[Trilha de estudos para Desenvolvedores Web Front-end](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
+[Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
+<br>
+
 ### Comunidades Front-end:
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
 
