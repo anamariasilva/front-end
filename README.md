@@ -60,7 +60,7 @@
 💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
 
 ### Trilhas e Cronogramas de estudo:
-💻 [Trilha de estudos para Desenvolvedores Web Front-end](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
+💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
 
 ### Comunidades Front-end:
