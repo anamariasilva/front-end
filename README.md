@@ -34,12 +34,12 @@
 💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/) <br>
 
 ### Sites de consulta:
-🔗 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
-🔗 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
-🔗 [Site do Maujor](https://www.maujor.com/) <br>
-🔗 [Tableless](https://tableless.com.br/) <br>
-🔗 [W3Schools](https://www.w3schools.com/) <br>
-🔗 [JSchallenger](https://www.jschallenger.com/) <br>
+💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
+💻 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
+💻 [Site do Maujor](https://www.maujor.com/) <br>
+💻 [Tableless](https://tableless.com.br/) <br>
+💻 [W3Schools](https://www.w3schools.com/) <br>
+💻 [JSchallenger](https://www.jschallenger.com/) <br>
 
 ### Repositórios de organizações front-end:
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
@@ -62,9 +62,10 @@
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
 
 ### Artigos Front-end:
-🔗 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
+💻 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
 
 ### Tutoriais freeCodeCamp:
+💻 [FRONT END DEVELOPMENT](https://www.freecodecamp.org/news/tag/front-end-development/)<br>
 💻 [Create React App por Vercel](https://vercel.com/solutions/react) <br>
 💻 [The React Beginner's Guide for 2022](www.freecodecamp.org/news/react-beginners-guide/) <br>
 💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
