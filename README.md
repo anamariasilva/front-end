@@ -54,12 +54,6 @@
 💻 [The Modern JavaScript Tutorial](https://javascript.info/) <br>
 💻 [JavaScript.com](https://www.javascript.com/) <br>
 
-### Tutoriais sobre React:
-💻 [Create React App por Vercel](https://vercel.com/solutions/react) <br>
-💻 [The React Beginner's Guide for 2022](www.freecodecamp.org/news/react-beginners-guide/) <br>
-💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
-💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
-
 ### Trilhas e Cronogramas de estudo:
 💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
@@ -69,6 +63,12 @@
 
 ### Artigos Front-end:
 🔗 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
+
+### Tutoriais freeCodeCamp:
+💻 [Create React App por Vercel](https://vercel.com/solutions/react) <br>
+💻 [The React Beginner's Guide for 2022](www.freecodecamp.org/news/react-beginners-guide/) <br>
+💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
+💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
 
 ### Livros e e-books: 
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
