@@ -32,11 +32,12 @@
 💻 [Tutorial Front-end com Front in Sampa | FRONTIN Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Como atua uma pessoa desenvolvedora front-end? | Fullture](https://www.instagram.com/p/CZSFyENpXWX/) <br>
 
-### Artigos:
+### Meus Artigos:
 💻 [A importância do papel do desenvolvedor frontend | Revelo Community](https://community.revelo.com/a-importancia-do-papel-do-desenvolvedor-frontend/) <br>
 
-### Sites de consulta:
+### Referências de consulta para desenvolvedores:
 💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
+💻 [web.dev | Google ](https://web.dev) <br>
 💻 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
 💻 [Site do Maujor](https://www.maujor.com/) <br>
 💻 [Tableless](https://tableless.com.br/) <br>
