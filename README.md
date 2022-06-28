@@ -30,8 +30,10 @@
 
 ### Tutoriais em posts:
 💻 [Tutorial Front-end com Front in Sampa @frontinsampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
-💻 [Post com e-books e materiais](https://www.instagram.com/p/CZpwv9hlTV_/) <br>
-💻 [Cursos, eventos, materiais e referências front-end](https://www.instagram.com/p/CXpJkvDgYv1/) <br>
+💻 [Como atua uma pessoa desenvolvedora front-end? com Fullture](https://www.instagram.com/p/CZSFyENpXWX/) <br>
+
+### Artigos:
+💻 [A importância do papel do desenvolvedor frontend](https://community.revelo.com/a-importancia-do-papel-do-desenvolvedor-frontend/) <br>
 
 ### Sites de consulta:
 💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
