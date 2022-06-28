@@ -28,12 +28,12 @@
 💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
 💻 [The Frontend Learning Roadmap / Frontend Masters](https://github.com/FrontendMasters/learning-roadmap) <br>
 
-### Tutoriais em posts:
-💻 [Tutorial Front-end com Front in Sampa @frontinsampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
+### Tutoriais em posts colaborativos:
+💻 [Tutorial Front-end com Front in Sampa com FRONTIN Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Como atua uma pessoa desenvolvedora front-end? com Fullture](https://www.instagram.com/p/CZSFyENpXWX/) <br>
 
 ### Artigos:
-💻 [A importância do papel do desenvolvedor frontend](https://community.revelo.com/a-importancia-do-papel-do-desenvolvedor-frontend/) <br>
+💻 [A importância do papel do desenvolvedor frontend | Revelo Community](https://community.revelo.com/a-importancia-do-papel-do-desenvolvedor-frontend/) <br>
 
 ### Sites de consulta:
 💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
