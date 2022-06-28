@@ -21,7 +21,7 @@
 🌐 [Referências para desenvolvedores front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
 
 ### Tutoriais em posts colaborativos:
-💻 [Tutorial Front-end com Front in Sampa | FRONTIN Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
+💻 [Tutorial Front-end | FRONTIN Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Como atua uma pessoa desenvolvedora front-end? | Fullture](https://www.instagram.com/p/CZSFyENpXWX/) <br>
 
 ### Meus Artigos:
