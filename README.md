@@ -20,14 +20,6 @@
 🌐 [CSS-Tricks](https://css-tricks.com/) <br>
 🌐 [Referências para desenvolvedores front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
 
-### Repositórios recomendados:
-💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
-💻 [MDN Web Docs](https://github.com/mdn) <br>
-💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
-💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
-💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
-💻 [The Frontend Learning Roadmap / Frontend Masters](https://github.com/FrontendMasters/learning-roadmap) <br>
-
 ### Tutoriais em posts colaborativos:
 💻 [Tutorial Front-end com Front in Sampa | FRONTIN Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Como atua uma pessoa desenvolvedora front-end? | Fullture](https://www.instagram.com/p/CZSFyENpXWX/) <br>
@@ -43,6 +35,14 @@
 💻 [Tableless](https://tableless.com.br/) <br>
 💻 [W3Schools](https://www.w3schools.com/) <br>
 💻 [JSchallenger](https://www.jschallenger.com/) <br>
+
+### Repositórios recomendados:
+💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
+💻 [MDN Web Docs](https://github.com/mdn) <br>
+💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
+💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
+💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
+💻 [The Frontend Learning Roadmap / Frontend Masters](https://github.com/FrontendMasters/learning-roadmap) <br>
 
 ### Repositórios de organizações front-end:
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
