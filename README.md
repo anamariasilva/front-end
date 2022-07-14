@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram</a> com 15 publicações.
 <br>
 
-💻 [Tutorial para devs](https://www.instagram.com/p/CUOdgw1gKrM/)
+💻 [Tutorial para devs iniciantes](https://www.instagram.com/p/CcG6lv7ufsy/)
 <br>
 
 ### Referências Front-end:
@@ -25,7 +25,7 @@
 💻 [Como atua uma pessoa desenvolvedora front-end? | Fullture](https://www.instagram.com/p/CZSFyENpXWX/) <br>
 
 ### Meus Artigos:
-💻 [A importância do papel do desenvolvedor frontend | Revelo Community](https://community.revelo.com/a-importancia-do-papel-do-desenvolvedor-frontend/) <br>
+💻 [A importância do papel da pessoa desenvolvedora frontend | Revelo Community](https://community.revelo.com/a-importancia-do-papel-do-desenvolvedor-frontend/) <br>
 
 ### Referências de consulta para desenvolvedores:
 💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
