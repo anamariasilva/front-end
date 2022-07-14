@@ -38,12 +38,12 @@
 
 ### Repositórios recomendados:
 💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
-💻 [MDN Web Docs](https://github.com/mdn) <br>
 💻 [Repositório Frontin Sampa | Luís Leão](https://github.com/luisleao/frontinsampa) <br>
-💻 [WoMakersCode / Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
-💻 [Felipe Fialho / Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
-💻 [Felipe Fialho / Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
-💻 [The Frontend Learning Roadmap / Frontend Masters](https://github.com/FrontendMasters/learning-roadmap) <br>
+💻 [MDN Web Docs](https://github.com/mdn) <br>
+💻 [WoMakersCode | Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end) <br>
+💻 [Felipe Fialho | Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
+💻 [Felipe Fialho | Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
+💻 [The Frontend Learning Roadmap | Frontend Masters](https://github.com/FrontendMasters/learning-roadmap) <br>
 
 ### Repositórios de organizações front-end:
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
