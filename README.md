@@ -26,6 +26,7 @@
 
 ### Meus Artigos:
 💻 [A importância do papel da pessoa desenvolvedora frontend | Revelo Community](https://community.revelo.com/a-importancia-do-papel-do-desenvolvedor-frontend/) <br>
+💻 [10 Ferramentas e referências fundamentais para pessoas desenvolvedoras | Revelo Community](https://community.revelo.com/10-ferramentas-e-referencias-fundamentais-para-pessoas-desenvolvedoras/) <br>
 
 ### Referências de consulta para desenvolvedores:
 💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
@@ -34,7 +35,6 @@
 💻 [Site do Maujor](https://www.maujor.com/) <br>
 💻 [Tableless](https://tableless.com.br/) <br>
 💻 [W3Schools](https://www.w3schools.com/) <br>
-💻 [JSchallenger](https://www.jschallenger.com/) <br>
 
 ### Repositórios recomendados:
 💻 [Repositórios para favoritar no GitHub](https://www.instagram.com/p/CTf72KfDN0n/) <br>
@@ -57,6 +57,7 @@
 💻 [Tradução do livro Eloquent JavaScript - 2ª edição por BrazilJS](https://github.com/braziljs/eloquente-javascript) <br>
 💻 [The Modern JavaScript Tutorial](https://javascript.info/) <br>
 💻 [JavaScript.com](https://www.javascript.com/) <br>
+💻 [JSchallenger](https://www.jschallenger.com/) <br>
 
 ### Trilhas e Cronogramas de estudo:
 💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
