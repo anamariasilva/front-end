@@ -18,7 +18,7 @@
 🌐 [W3C](https://www.w3c.br/) <br>
 🌐 [Can I use](https://caniuse.com/) <br>
 🌐 [CSS-Tricks](https://css-tricks.com/) <br>
-🌐 [Referências para desenvolvedores front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
+🌐 [Referências para pessoas desenvolvedoras front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
 
 ### Tutoriais em posts colaborativos:
 💻 [Tutorial Front-end | FRONTIN Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
