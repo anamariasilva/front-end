@@ -21,7 +21,7 @@
 🌐 [Referências para pessoas desenvolvedoras front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
 
 ### Tutoriais em posts colaborativos:
-💻 [Importância do Portfólio para Pessoas Desenvolvedoras | Kenzie Academy](https://www.instagram.com/p/ChmxWtzAkJO/) <br>
+💻 [Importância do Portfólio para Pessoas Desenvolvedoras | Kenzie Academy Brasil](https://www.instagram.com/p/ChmxWtzAkJO/) <br>
 💻 [Tutorial Front-end | FRONTIN Sampa](https://www.instagram.com/p/CVTy0aMDOMW/) <br>
 💻 [Como atua uma pessoa desenvolvedora front-end? | Fullture](https://www.instagram.com/p/CZSFyENpXWX/) <br>
 
@@ -48,7 +48,7 @@
 
 ### Repositórios de organizações front-end:
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
-💻 [Front in Sampa](https://github.com/frontinsampa) <br>
+💻 [FRONTIN](https://github.com/frontinsampa) <br>
 💻 [Frontend Masters](https://github.com/FrontendMasters) <br>
 
 ### Conteúdos JavaScript:
