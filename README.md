@@ -60,10 +60,6 @@
 💻 [JavaScript.com](https://www.javascript.com/) <br>
 💻 [JSchallenger](https://www.jschallenger.com/) <br>
 
-### Trilhas e Cronogramas de estudo:
-💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
-💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
-
 ### Comunidades:
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
 💻 [Awesome Communities Brazil por Codecon](https://github.com/codecon-dev/awesome-communities-brazil)
@@ -80,6 +76,10 @@
 ### Livros e e-books: 
 📘 [Livros de Front-end - Casa do Código](https://www.casadocodigo.com.br/collections/livros-de-front-end) <br>
 📘 [Livros do Maujor](https://livrosdomaujor.com.br/) <br>
+
+### Trilhas e Cronogramas de estudo:
+💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
+💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
 
 ### Links complementares:
 🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
