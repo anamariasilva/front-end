@@ -64,8 +64,9 @@
 💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
 
-### Comunidades Front-end:
+### Comunidades:
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
+💻 [Awesome Communities Brazil por Codecon](https://github.com/codecon-dev/awesome-communities-brazil)
 
 ### Artigos Front-end:
 💻 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
