@@ -79,7 +79,6 @@
 
 ### Trilhas e Cronogramas de estudo:
 💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
-💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
 
 ### Links complementares:
 🎧 [Playlist no Spotify: Podcasts Tech para Devs](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1)
