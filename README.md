@@ -30,9 +30,7 @@
 💻 [10 Ferramentas e referências fundamentais para pessoas desenvolvedoras | Revelo Community](https://community.revelo.com/10-ferramentas-e-referencias-fundamentais-para-pessoas-desenvolvedoras/) <br>
 
 ### Referências de consulta para desenvolvedores:
-💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 💻 [web.dev | Google ](https://web.dev) <br>
-💻 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
 💻 [Site do Maujor](https://www.maujor.com/) <br>
 💻 [Tableless](https://tableless.com.br/) <br>
 💻 [W3Schools](https://www.w3schools.com/) <br>
@@ -45,6 +43,10 @@
 💻 [Felipe Fialho | Frontend Challenges](https://github.com/felipefialho/frontend-challenges) <br>
 💻 [Felipe Fialho | Frontend Feed](https://github.com/felipefialho/frontend-feed) <br>
 💻 [The Frontend Learning Roadmap | Frontend Masters](https://github.com/FrontendMasters/learning-roadmap) <br>
+
+### Roadmaps:
+💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
+💻 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
 
 ### Repositórios de organizações front-end:
 💻 [Front-end Brasil - O mundo frontender dentro do GitHub](https://github.com/frontendbr) <br>
@@ -64,11 +66,16 @@
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
 💻 [Awesome Communities Brazil por Codecon](https://github.com/codecon-dev/awesome-communities-brazil)
 
+### Ferramentas:
+💻 [Convert your PNG to an SVG for free online](https://www.adobe.com/express/feature/image/convert/png-to-svg) <br>
+💻 [Contrast Ratio: Easily calculate color contrast ratios. Passing WCAG was never this easy!](https://contrast-ratio.com/) <br>
+💻 [All Online Tools in One Box | 10015 Tools](https://10015.io/)
+
 ### Artigos Front-end:
 💻 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
 
 ### Tutoriais freeCodeCamp:
-💻 [FRONT END DEVELOPMENT](https://www.freecodecamp.org/news/tag/front-end-development/)<br>
+💻 [FRONT END DEVELOPMENT](https://www.freecodecamp.org/news/tag/front-end-development/) <br>
 💻 [The React Beginner's Guide for 2022](www.freecodecamp.org/news/react-beginners-guide/) <br>
 💻 [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/) <br>
 💻 [10 React Interview Questions You Should Know in 2022](https://www.freecodecamp.org/news/react-interview-questions-to-know/) <br>
