@@ -67,8 +67,8 @@
 💻 [Awesome Communities Brazil por Codecon](https://github.com/codecon-dev/awesome-communities-brazil)
 
 ### Ferramentas:
-💻 [Convert your PNG to an SVG for free online](https://www.adobe.com/express/feature/image/convert/png-to-svg) <br>
-💻 [Contrast Ratio: Easily calculate color contrast ratios. Passing WCAG was never this easy!](https://contrast-ratio.com/) <br>
+💻 [Convert your PNG to an SVG | Adobe](https://www.adobe.com/express/feature/image/convert/png-to-svg) <br>
+💻 [Contrast Ratio](https://contrast-ratio.com/) <br>
 💻 [All Online Tools in One Box | 10015 Tools](https://10015.io/)
 
 ### Artigos Front-end:
