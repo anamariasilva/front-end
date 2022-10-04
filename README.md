@@ -3,7 +3,7 @@
 ## Repositório de tutoriais e referências de desenvolvimento front-end
 
 <code>Hello world, Frontenders!</code>
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram</a> com 20 publicações.
 <br>
@@ -38,7 +38,7 @@
 
 ### Cursos
 
-[web.dev | Learn](https://web.dev/learn/) <br>
+💻 [web.dev | Learn](https://web.dev/learn/) <br>
 
 ### Ferramentas
 
@@ -120,5 +120,5 @@
 __<br>
 Ana Maria Silva | <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a><br>
 :octocat: <a href="https://github.com/anamariasilva" target="_blank">github.com/anamariasilva</a><br>
-:octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a>
+:octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a> <br>
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
