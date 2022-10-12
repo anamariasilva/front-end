@@ -83,6 +83,12 @@
 💻 [7 Days Of Code | Alura](https://7daysofcode.io/) <br>
 💻 [Exercism](https://exercism.org/) <br>
 
+### Jogos para aprender
+
+💻 [Flexbox Froggy](https://flexboxfroggy.com/) <br>
+💻 [Grid Garden](https://cssgridgarden.com/) <br>
+💻 [CSS Diner](https://flukeout.github.io/) <br>
+
 ### Artigos Front-end
 
 💻 [Artigos de Front-end da Alura](https://www.alura.com.br/artigos/front-end) <br>
