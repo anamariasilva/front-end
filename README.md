@@ -39,6 +39,7 @@
 ### Cursos
 
 💻 [web.dev | Learn](https://web.dev/learn/) <br>
+💻 [freeCodeCamp](https://www.freecodecamp.org/) <br>
 
 ### Ferramentas
 
