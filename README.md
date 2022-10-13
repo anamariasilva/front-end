@@ -82,6 +82,7 @@
 
 💻 [7 Days Of Code | Alura](https://7daysofcode.io/) <br>
 💻 [Exercism](https://exercism.org/) <br>
+💻 [FrontEnd Mentor](https://www.frontendmentor.io/) <br>
 
 ### Jogos para aprender
 
