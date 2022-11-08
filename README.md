@@ -51,6 +51,7 @@
 
 💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 💻 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
+💻 [Tech Guide da Alura](https://techguide.sh/pt-BR/path/front-end/) <br>
 
 ### Repositórios recomendados
 
