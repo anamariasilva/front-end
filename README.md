@@ -40,6 +40,7 @@
 
 💻 [web.dev | Learn](https://web.dev/learn/) <br>
 💻 [freeCodeCamp](https://www.freecodecamp.org/) <br>
+💻 [Discover | Rocketseat](https://app.rocketseat.com.br/discover) <br>
 
 ### Ferramentas
 
@@ -116,6 +117,8 @@
 ### Trilhas e Cronogramas de estudo
 
 💻 [Trilha de estudos para Desenvolvedores Web Front-end | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/Front-end_web_developer) <br>
+
+💻 [Desenvolvimento Full Stack | Orange Evolution](https://orangejuicetech.notion.site/Desenvolvimento-Full-Stack-Orange-Evolution-9bb5c79aa25a4e77bd08c680bf33d227) <br>
 
 ### Posts Instagram [instagram.com/@ana.tech.dev](https://instagram.com/@ana.tech.dev)
 
