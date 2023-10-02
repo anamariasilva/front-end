@@ -40,7 +40,7 @@
 
 💻 [web.dev | Learn](https://web.dev/learn/) <br>
 💻 [freeCodeCamp](https://www.freecodecamp.org/) <br>
-💻 [Discover | Rocketseat](https://rocketseat.com.br/discover?referral=eloisa-de-oliveira-santos-09728) <br>
+💻 [Discover | Rocketseat](https://app.rocketseat.com.br/discover) <br>
 
 ### Ferramentas
 
