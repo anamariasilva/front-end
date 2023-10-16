@@ -17,6 +17,8 @@
 🌐 [W3C](https://www.w3c.br/) <br>
 🌐 [Can I use](https://caniuse.com/) <br>
 🌐 [CSS-Tricks](https://css-tricks.com/) <br>
+🌐 [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) <br>
+🌐 [WCAG - Guia de Consulta Rápida](https://guia-wcag.com/) <br>
 
 ### Tutoriais em posts colaborativos
 
@@ -47,6 +49,9 @@
 💻 [Convert your PNG to an SVG | Adobe](https://www.adobe.com/express/feature/image/convert/png-to-svg) <br>
 💻 [Contrast Ratio](https://contrast-ratio.com/) <br>
 💻 [All Online Tools in One Box | 10015 Tools](https://10015.io/) <br>
+💻 [Extensão do Chrome DevTools](https://developer.chrome.com/docs/devtools/) <br>
+💻 [CodeSandbox: Ferramenta de compartilhamento de código que permite criar e compartilhar projetos de desenvolvimento diretamente no navegador](https://codesandbox.io/) <br>
+💻 [CodePen: Plataforma para criar, compartilhar e testar rapidamente códigos HTML, CSS e JavaScript](https://codepen.io/) <br>
 
 ### Roadmaps
 
@@ -78,7 +83,8 @@
 ### Comunidades
 
 💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
-💻 [Awesome Communities Brazil por Codecon](https://github.com/codecon-dev/awesome-communities-brazil)
+💻 [Awesome Communities Brazil por Codecon](https://github.com/codecon-dev/awesome-communities-brazil) <br>
+💻 [Reddit Frontend: Subreddit de discussão](https://www.reddit.com/r/Frontend/) <br>
 
 ### Desafios
 
