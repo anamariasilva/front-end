@@ -5,10 +5,7 @@
 <code>Hello world, Frontenders!</code>
 <br>
 
-<a href="https://www.instagram.com/ana.tech.dev/guide/desenvolvimento-web-front-end/18164552647134233/" target="_blank">Guia no Instagram</a> com 20 publicações.
-<br>
-
-💻 [Tutorial para devs iniciantes](https://www.instagram.com/p/CcG6lv7ufsy/)
+💻 [Tutorial para devs iniciantes](https://www.instagram.com/ana.tech.dev/p/CzPqSemA0xR/)
 <br>
 
 ### Referências Front-end
@@ -38,8 +35,9 @@
 💻 [Tableless](https://tableless.com.br/) <br>
 💻 [W3Schools](https://www.w3schools.com/) <br>
 
-### Cursos
+### Cursos e Formações
 
+💻 [Formação Front-end | Alura - Cursos online de tecnologia](https://cursos.alura.com.br/formacao-front-end)
 💻 [web.dev | Learn](https://web.dev/learn/) <br>
 💻 [freeCodeCamp](https://www.freecodecamp.org/) <br>
 💻 [Discover | Rocketseat](https://app.rocketseat.com.br/discover) <br>
@@ -55,9 +53,9 @@
 
 ### Roadmaps
 
+💻 [Tech Guide da Alura](https://techguide.sh/pt-BR/path/front-end/) <br>
 💻 [Frontend Developer Roadmap](https://roadmap.sh/frontend) <br>
 💻 [The Frontend Learning Roadmap por Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/) <br>
-💻 [Tech Guide da Alura](https://techguide.sh/pt-BR/path/front-end/) <br>
 
 ### Repositórios recomendados
 
@@ -79,12 +77,6 @@
 💻 [The Modern JavaScript Tutorial](https://javascript.info/) <br>
 💻 [JavaScript.com](https://www.javascript.com/) <br>
 💻 [JSchallenger](https://www.jschallenger.com/) <br>
-
-### Comunidades
-
-💻 [Comunidade Front-end no Twitter](https://www.instagram.com/p/CaVtSk8gQSg/) <br>
-💻 [Awesome Communities Brazil por Codecon](https://github.com/codecon-dev/awesome-communities-brazil) <br>
-💻 [Reddit Frontend: Subreddit de discussão](https://www.reddit.com/r/Frontend/) <br>
 
 ### Desafios
 
@@ -128,7 +120,7 @@
 
 ### Posts Instagram [instagram.com/@ana.tech.dev](https://instagram.com/@ana.tech.dev)
 
-💻 [Referências para pessoas desenvolvedoras front-end](https://www.instagram.com/p/CRY2ZUaD9kS/) <br>
+💻 [Tutorial para devs iniciantes](https://www.instagram.com/ana.tech.dev/p/CzPqSemA0xR/) <br>
 
 ### Links complementares
 
