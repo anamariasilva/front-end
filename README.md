@@ -1,10 +1,8 @@
 # Front-end Developers
 
-## Repositório de tutoriais e referências de desenvolvimento front-end
+## Repositório de tutoriais e referências de desenvolvimento front-end para pessoas desenvolvedoras frontenders
 
 💻 <code>Hello world, Frontenders!</code>
-
-<br>
 
 ### Referências Front-end
 
