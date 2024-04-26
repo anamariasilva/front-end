@@ -2,10 +2,8 @@
 
 ## Repositório de tutoriais e referências de desenvolvimento front-end
 
-<code>Hello world, Frontenders!</code>
-<br>
+💻 <code>Hello world, Frontenders!</code>
 
-💻 [Tutorial para devs iniciantes](https://www.instagram.com/ana.tech.dev/p/CzPqSemA0xR/)
 <br>
 
 ### Referências Front-end
@@ -37,6 +35,7 @@
 
 ### Cursos e Formações
 
+💻 [Front-end Minha Primeira Página - PrograMaria](https://www.programaria.org/cursos-programaria/front-end-primeira-pagina-web/#precos) <br>
 💻 [Formação Front-end | Alura - Cursos online de tecnologia](https://cursos.alura.com.br/formacao-front-end)
 💻 [web.dev | Learn](https://web.dev/learn/) <br>
 💻 [freeCodeCamp](https://www.freecodecamp.org/) <br>
